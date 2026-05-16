@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "updatedAt": "2026-05-16T00:00:00Z",
+  "methods": [
+    {
+      "id": "stir-fry",
+      "name": {
+        "zh-Hans": "炒"
+      }
+    },
+    {
+      "id": "boil",
+      "name": {
+        "zh-Hans": "煮"
+      }
+    },
+    {
+      "id": "bake",
+      "name": {
+        "zh-Hans": "烤"
+      }
+    },
+    {
+      "id": "stew",
+      "name": {
+        "zh-Hans": "炖"
+      }
+    },
+    {
+      "id": "steam",
+      "name": {
+        "zh-Hans": "蒸"
+      }
+    },
+    {
+      "id": "deep-fry",
+      "name": {
+        "zh-Hans": "炸"
+      }
+    },
+    {
+      "id": "pan-fry",
+      "name": {
+        "zh-Hans": "煎"
+      }
+    },
+    {
+      "id": "braise",
+      "name": {
+        "zh-Hans": "焖"
+      }
+    },
+    {
+      "id": "brine",
+      "name": {
+        "zh-Hans": "卤"
+      }
+    },
+    {
+      "id": "toss",
+      "name": {
+        "zh-Hans": "拌"
+      }
+    },
+    {
+      "id": "blanch",
+      "name": {
+        "zh-Hans": "焯"
+      }
+    },
+    {
+      "id": "red-braise",
+      "name": {
+        "zh-Hans": "红烧"
+      }
+    },
+    {
+      "id": "quick-fry",
+      "name": {
+        "zh-Hans": "爆"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5492 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "updatedAt": "2026-05-16T00:00:00Z",
+  "recipes": [
+    {
+      "id": "tomato-egg",
+      "name": {
+        "zh-Hans": "番茄炒蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": false
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "steamed-egg",
+      "name": {
+        "zh-Hans": "蒸鸡蛋羹"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": false
+          },
+          {
+            "id": "light-soy",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "scrambled-leek-egg",
+      "name": {
+        "zh-Hans": "韭菜炒蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chinese-leek",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "tea-egg",
+      "name": {
+        "zh-Hans": "茶叶蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "century-tofu",
+      "name": {
+        "zh-Hans": "皮蛋豆腐"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "preserved-egg",
+            "required": true
+          },
+          {
+            "id": "soft-tofu",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cucumber-egg-fry",
+      "name": {
+        "zh-Hans": "黄瓜炒蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "cucumber",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "egg-drop-soup",
+      "name": {
+        "zh-Hans": "西红柿蛋花汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "seaweed-egg-soup",
+      "name": {
+        "zh-Hans": "紫菜蛋花汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "seaweed",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "dried-shrimp",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "white-pepper",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "hong-shao-rou",
+      "name": {
+        "zh-Hans": "红烧肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-belly",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "rock-sugar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "sweet-sour-rib",
+      "name": {
+        "zh-Hans": "糖醋排骨"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          },
+          {
+            "id": "red-braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "steamed-rib",
+      "name": {
+        "zh-Hans": "蒜蓉粉丝蒸排骨"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "vermicelli",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "taro-pork-rib-stew",
+      "name": {
+        "zh-Hans": "芋艿炖排骨"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "taro",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "corn-rib-soup",
+      "name": {
+        "zh-Hans": "玉米排骨汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "corn",
+            "required": true
+          },
+          {
+            "id": "carrot",
+            "required": false
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "lotus-rib-soup",
+      "name": {
+        "zh-Hans": "莲藕排骨汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "lotus-root",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "radish-rib-soup",
+      "name": {
+        "zh-Hans": "萝卜排骨汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "white-radish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "winter-melon-rib-soup",
+      "name": {
+        "zh-Hans": "冬瓜排骨汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "winter-melon",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "kelp-rib-soup",
+      "name": {
+        "zh-Hans": "海带排骨汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "kelp",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "fish-pork",
+      "name": {
+        "zh-Hans": "鱼香肉丝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "wood-ear",
+            "required": true
+          },
+          {
+            "id": "carrot",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "kung-pao-pork",
+      "name": {
+        "zh-Hans": "宫保肉丁"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "quick-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "peanut",
+            "required": true
+          },
+          {
+            "id": "cucumber",
+            "required": true
+          },
+          {
+            "id": "dried-chili",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "twice-cooked-pork",
+      "name": {
+        "zh-Hans": "回锅肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          },
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-belly",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "sweet-bean-sauce",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "jing-jiang-shred",
+      "name": {
+        "zh-Hans": "京酱肉丝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "tofu-skin",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sweet-bean-sauce",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "guo-bao-rou",
+      "name": {
+        "zh-Hans": "锅包肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "deep-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "carrot",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "mu-shu-pork",
+      "name": {
+        "zh-Hans": "木须肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "wood-ear",
+            "required": true
+          },
+          {
+            "id": "cucumber",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "lion-head",
+      "name": {
+        "zh-Hans": "红烧狮子头"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          },
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "napa-cabbage",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-trotter",
+      "name": {
+        "zh-Hans": "卤猪蹄"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "brine",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-trotter",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "rock-sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": true
+          },
+          {
+            "id": "dried-tangerine-peel",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "ant-tree",
+      "name": {
+        "zh-Hans": "蚂蚁上树"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "vermicelli",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "dry-pot-cauli",
+      "name": {
+        "zh-Hans": "干锅花菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "broccoli",
+            "required": true
+          },
+          {
+            "id": "pork-belly",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "chili-pepper",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "eggplant-pork-mince",
+      "name": {
+        "zh-Hans": "肉末茄子"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "eggplant",
+            "required": true
+          },
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "salt-pepper-rib",
+      "name": {
+        "zh-Hans": "椒盐排骨"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "deep-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pork-rib",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "chili-pepper",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          },
+          {
+            "id": "five-spice-powder",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "tomato-beef-brisket",
+      "name": {
+        "zh-Hans": "番茄牛腩"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "beef-brisket",
+            "required": true
+          },
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "onion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "ketchup",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-beef",
+      "name": {
+        "zh-Hans": "红烧牛肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "beef",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "rock-sugar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "doubanjiang",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "black-pepper-beef",
+      "name": {
+        "zh-Hans": "黑椒牛柳"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "beef",
+            "required": true
+          },
+          {
+            "id": "onion",
+            "required": true
+          },
+          {
+            "id": "bell-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "black-pepper",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cumin-lamb",
+      "name": {
+        "zh-Hans": "孜然羊肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "lamb",
+            "required": true
+          },
+          {
+            "id": "onion",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "cumin",
+            "required": true
+          },
+          {
+            "id": "chili-powder",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "scallion-lamb",
+      "name": {
+        "zh-Hans": "葱爆羊肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "quick-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "lamb",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-lamb",
+      "name": {
+        "zh-Hans": "红烧羊肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "lamb",
+            "required": true
+          },
+          {
+            "id": "white-radish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "rock-sugar",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "dried-tangerine-peel",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "beef-noodle-soup",
+      "name": {
+        "zh-Hans": "番茄牛肉面"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          },
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "beef-brisket",
+            "required": true
+          },
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "noodles",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "kung-pao-chicken",
+      "name": {
+        "zh-Hans": "宫保鸡丁"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "quick-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-thigh",
+            "required": true
+          },
+          {
+            "id": "peanut",
+            "required": true
+          },
+          {
+            "id": "cucumber",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "dried-chili",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cola-wings",
+      "name": {
+        "zh-Hans": "可乐鸡翅"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-wing",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-wings",
+      "name": {
+        "zh-Hans": "红烧鸡翅"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-wing",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "rock-sugar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "white-cut-chicken",
+      "name": {
+        "zh-Hans": "白切鸡"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "kou-shui-chicken",
+      "name": {
+        "zh-Hans": "口水鸡"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken",
+            "required": true
+          },
+          {
+            "id": "peanut",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          },
+          {
+            "id": "white-sesame",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "beer-duck",
+      "name": {
+        "zh-Hans": "啤酒鸭"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "duck",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "chili-pepper",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-chicken-leg",
+      "name": {
+        "zh-Hans": "卤鸡腿"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "brine",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-leg",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "rock-sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          },
+          {
+            "id": "cinnamon",
+            "required": true
+          },
+          {
+            "id": "bay-leaf",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "curry-chicken",
+      "name": {
+        "zh-Hans": "咖喱鸡块"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-thigh",
+            "required": true
+          },
+          {
+            "id": "potato",
+            "required": true
+          },
+          {
+            "id": "carrot",
+            "required": true
+          },
+          {
+            "id": "onion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "five-spice-powder",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-three-cup",
+      "name": {
+        "zh-Hans": "三杯鸡"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-thigh",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "dry-pot-chicken",
+      "name": {
+        "zh-Hans": "辣子鸡"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "deep-fry",
+            "required": true
+          },
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chicken-thigh",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "dried-chili",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          },
+          {
+            "id": "white-sesame",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "steamed-fish",
+      "name": {
+        "zh-Hans": "清蒸鱼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "fish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-fish",
+      "name": {
+        "zh-Hans": "红烧鱼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "fish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "sweet-sour-fish",
+      "name": {
+        "zh-Hans": "糖醋鱼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "deep-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "fish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "ketchup",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "pan-ribbon-fish",
+      "name": {
+        "zh-Hans": "干煎带鱼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "ribbon-fish",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "five-spice-powder",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "white-boil-shrimp",
+      "name": {
+        "zh-Hans": "白灼虾"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "shrimp",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "beer-shrimp",
+      "name": {
+        "zh-Hans": "啤酒虾"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "shrimp",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "garlic-shrimp",
+      "name": {
+        "zh-Hans": "蒜蓉粉丝蒸虾"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "shrimp",
+            "required": true
+          },
+          {
+            "id": "vermicelli",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "scallop-vermicelli",
+      "name": {
+        "zh-Hans": "蒜蓉粉丝蒸扇贝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "scallop",
+            "required": true
+          },
+          {
+            "id": "vermicelli",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "stir-clam",
+      "name": {
+        "zh-Hans": "葱姜炒花蛤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "clam",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "chili-pepper",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-squid",
+      "name": {
+        "zh-Hans": "红烧鱿鱼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "red-braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "squid",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "star-anise",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "mapo-tofu",
+      "name": {
+        "zh-Hans": "麻婆豆腐"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": true
+          },
+          {
+            "id": "chili-powder",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "home-tofu",
+      "name": {
+        "zh-Hans": "家常豆腐"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          },
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "carrot",
+            "required": false
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "pot-collapse-tofu",
+      "name": {
+        "zh-Hans": "锅塌豆腐"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          },
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "lao-gan-ma-tofu",
+      "name": {
+        "zh-Hans": "老干妈蒸豆腐"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "chili-oil",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "braised-tofu-skin",
+      "name": {
+        "zh-Hans": "凉拌豆腐皮"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu-skin",
+            "required": true
+          },
+          {
+            "id": "cucumber",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "white-sesame",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "garlic-water-spinach",
+      "name": {
+        "zh-Hans": "蒜蓉炒空心菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "water-spinach",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "garlic-broccoli",
+      "name": {
+        "zh-Hans": "蒜蓉炒西兰花"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          },
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "broccoli",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "dry-fried-bean",
+      "name": {
+        "zh-Hans": "干煸豆角"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "green-bean",
+            "required": true
+          },
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "dried-chili",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "di-san-xian",
+      "name": {
+        "zh-Hans": "地三鲜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          },
+          {
+            "id": "deep-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "eggplant",
+            "required": true
+          },
+          {
+            "id": "potato",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "fish-eggplant",
+      "name": {
+        "zh-Hans": "鱼香茄子"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "eggplant",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "yu-men-eggplant",
+      "name": {
+        "zh-Hans": "油焖茄子"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "eggplant",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "vinegar-potato",
+      "name": {
+        "zh-Hans": "炝拌土豆丝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "potato",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "sichuan-peppercorn",
+            "required": false
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "sour-potato",
+      "name": {
+        "zh-Hans": "醋溜土豆丝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "potato",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "oyster-lettuce",
+      "name": {
+        "zh-Hans": "蚝油生菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "lettuce",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "smashed-cucumber",
+      "name": {
+        "zh-Hans": "拍黄瓜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "cucumber",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cold-tomato",
+      "name": {
+        "zh-Hans": "凉拌西红柿"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tomato",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cold-wood-ear",
+      "name": {
+        "zh-Hans": "凉拌木耳"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "wood-ear",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "bell-pepper",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cold-okra",
+      "name": {
+        "zh-Hans": "凉拌秋葵"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "okra",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cold-seaweed",
+      "name": {
+        "zh-Hans": "凉拌海带丝"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "blanch",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "kelp",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "chili-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "cold-peanuts",
+      "name": {
+        "zh-Hans": "凉拌花生米"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "deep-fry",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "peanut",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "cilantro",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "garlic-baby-bok",
+      "name": {
+        "zh-Hans": "蒜蓉粉丝娃娃菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "baby-bok-choy",
+            "required": true
+          },
+          {
+            "id": "vermicelli",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "vinegar-cabbage",
+      "name": {
+        "zh-Hans": "醋溜白菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "napa-cabbage",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          },
+          {
+            "id": "dried-chili",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "tomato-cabbage",
+      "name": {
+        "zh-Hans": "西红柿炒包菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "cabbage",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "plain-bitter-melon",
+      "name": {
+        "zh-Hans": "清炒苦瓜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "bitter-melon",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "luffa-egg",
+      "name": {
+        "zh-Hans": "丝瓜炒蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "luffa",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "shiitake-bok",
+      "name": {
+        "zh-Hans": "香菇青菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "shiitake",
+            "required": true
+          },
+          {
+            "id": "baby-bok-choy",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "oyster-sauce",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "leek-sprout",
+      "name": {
+        "zh-Hans": "韭菜炒豆芽"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "chinese-leek",
+            "required": true
+          },
+          {
+            "id": "bean-sprout",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "dry-fried-pepper",
+      "name": {
+        "zh-Hans": "虎皮青椒"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "celery-pork",
+      "name": {
+        "zh-Hans": "芹菜炒肉"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "celery",
+            "required": true
+          },
+          {
+            "id": "pork-loin",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "leek-egg",
+      "name": {
+        "zh-Hans": "韭黄炒蛋"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "garlic-chive",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "garlic-spinach",
+      "name": {
+        "zh-Hans": "蒜蓉菠菜"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "spinach",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "stew-eggplant-potato",
+      "name": {
+        "zh-Hans": "茄子土豆煲"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "braise",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "eggplant",
+            "required": true
+          },
+          {
+            "id": "potato",
+            "required": true
+          },
+          {
+            "id": "green-pepper",
+            "required": true
+          },
+          {
+            "id": "garlic",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "doubanjiang",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "steam-yam",
+      "name": {
+        "zh-Hans": "蒸山药"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "steam",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "yam",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "honey",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "egg-fried-rice",
+      "name": {
+        "zh-Hans": "蛋炒饭"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "rice",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "yangzhou-rice",
+      "name": {
+        "zh-Hans": "扬州炒饭"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "rice",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "shrimp",
+            "required": true
+          },
+          {
+            "id": "sausage",
+            "required": false
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "peanut",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "scallion-noodle",
+      "name": {
+        "zh-Hans": "葱油拌面"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          },
+          {
+            "id": "toss",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "noodles",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "sugar",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "tomato-egg-noodle",
+      "name": {
+        "zh-Hans": "西红柿鸡蛋面"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          },
+          {
+            "id": "stir-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "noodles",
+            "required": true
+          },
+          {
+            "id": "tomato",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "yang-chun-noodle",
+      "name": {
+        "zh-Hans": "阳春面"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "noodles",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "white-pepper",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "dumplings",
+      "name": {
+        "zh-Hans": "猪肉白菜饺子"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "dumpling-wrapper",
+            "required": true
+          },
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "napa-cabbage",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "wonton",
+      "name": {
+        "zh-Hans": "鲜肉馄饨"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "wonton-wrapper",
+            "required": true
+          },
+          {
+            "id": "pork-mince",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          },
+          {
+            "id": "seaweed",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "white-pepper",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "scallion-pancake",
+      "name": {
+        "zh-Hans": "葱油饼"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "flour",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "vegetable-oil",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "hot-sour-soup",
+      "name": {
+        "zh-Hans": "酸辣汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "wood-ear",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "shiitake",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "vinegar",
+            "required": true
+          },
+          {
+            "id": "light-soy",
+            "required": true
+          },
+          {
+            "id": "dark-soy",
+            "required": true
+          },
+          {
+            "id": "starch",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": true
+          },
+          {
+            "id": "white-pepper",
+            "required": true
+          }
+        ],
+        "spices": [
+          {
+            "id": "chili-powder",
+            "required": true
+          }
+        ]
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "luffa-egg-soup",
+      "name": {
+        "zh-Hans": "丝瓜蛋汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "luffa",
+            "required": true
+          },
+          {
+            "id": "egg",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "sesame-oil",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "fish-head-tofu",
+      "name": {
+        "zh-Hans": "鱼头豆腐汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "pan-fry",
+            "required": true
+          },
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "fish",
+            "required": true
+          },
+          {
+            "id": "tofu",
+            "required": true
+          },
+          {
+            "id": "ginger",
+            "required": true
+          },
+          {
+            "id": "scallion",
+            "required": true
+          }
+        ],
+        "condiments": [
+          {
+            "id": "salt",
+            "required": true
+          },
+          {
+            "id": "cooking-wine",
+            "required": true
+          },
+          {
+            "id": "white-pepper",
+            "required": false
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "white-fungus-soup",
+      "name": {
+        "zh-Hans": "银耳红枣汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "stew",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "white-fungus",
+            "required": true
+          },
+          {
+            "id": "red-date",
+            "required": true
+          },
+          {
+            "id": "goji-berry",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "rock-sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    },
+    {
+      "id": "lily-pumpkin",
+      "name": {
+        "zh-Hans": "百合南瓜汤"
+      },
+      "source": "builtin",
+      "author": null,
+      "uploadedAt": null,
+      "requirements": {
+        "methods": [
+          {
+            "id": "boil",
+            "required": true
+          }
+        ],
+        "ingredients": [
+          {
+            "id": "pumpkin",
+            "required": true
+          },
+          {
+            "id": "lily-bulb",
+            "required": false
+          }
+        ],
+        "condiments": [
+          {
+            "id": "rock-sugar",
+            "required": true
+          }
+        ],
+        "spices": []
+      },
+      "steps": null,
+      "externalVideo": null
+    }
+  ]
+}

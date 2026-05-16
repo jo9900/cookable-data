@@ -1,0 +1,821 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "updatedAt": "2026-05-16T00:00:00Z",
+  "ingredients": [
+    {
+      "id": "pork",
+      "name": {
+        "zh-Hans": "猪肉"
+      }
+    },
+    {
+      "id": "pork-belly",
+      "name": {
+        "zh-Hans": "五花肉"
+      }
+    },
+    {
+      "id": "pork-rib",
+      "name": {
+        "zh-Hans": "猪排骨"
+      }
+    },
+    {
+      "id": "pork-mince",
+      "name": {
+        "zh-Hans": "猪肉末"
+      }
+    },
+    {
+      "id": "pork-loin",
+      "name": {
+        "zh-Hans": "里脊肉"
+      }
+    },
+    {
+      "id": "pork-trotter",
+      "name": {
+        "zh-Hans": "猪蹄"
+      }
+    },
+    {
+      "id": "beef",
+      "name": {
+        "zh-Hans": "牛肉"
+      }
+    },
+    {
+      "id": "beef-brisket",
+      "name": {
+        "zh-Hans": "牛腩"
+      }
+    },
+    {
+      "id": "beef-tongue",
+      "name": {
+        "zh-Hans": "牛舌"
+      }
+    },
+    {
+      "id": "lamb",
+      "name": {
+        "zh-Hans": "羊肉"
+      }
+    },
+    {
+      "id": "chicken",
+      "name": {
+        "zh-Hans": "整鸡"
+      }
+    },
+    {
+      "id": "chicken-wing",
+      "name": {
+        "zh-Hans": "鸡翅"
+      }
+    },
+    {
+      "id": "chicken-leg",
+      "name": {
+        "zh-Hans": "鸡腿"
+      }
+    },
+    {
+      "id": "chicken-breast",
+      "name": {
+        "zh-Hans": "鸡胸肉"
+      }
+    },
+    {
+      "id": "chicken-thigh",
+      "name": {
+        "zh-Hans": "鸡腿肉"
+      }
+    },
+    {
+      "id": "duck",
+      "name": {
+        "zh-Hans": "鸭肉"
+      }
+    },
+    {
+      "id": "sausage",
+      "name": {
+        "zh-Hans": "香肠"
+      }
+    },
+    {
+      "id": "fish",
+      "name": {
+        "zh-Hans": "鱼"
+      }
+    },
+    {
+      "id": "fish-fillet",
+      "name": {
+        "zh-Hans": "鱼片"
+      }
+    },
+    {
+      "id": "ribbon-fish",
+      "name": {
+        "zh-Hans": "带鱼"
+      }
+    },
+    {
+      "id": "shrimp",
+      "name": {
+        "zh-Hans": "虾"
+      }
+    },
+    {
+      "id": "squid",
+      "name": {
+        "zh-Hans": "鱿鱼"
+      }
+    },
+    {
+      "id": "scallop",
+      "name": {
+        "zh-Hans": "扇贝"
+      }
+    },
+    {
+      "id": "clam",
+      "name": {
+        "zh-Hans": "花蛤"
+      }
+    },
+    {
+      "id": "crab",
+      "name": {
+        "zh-Hans": "螃蟹"
+      }
+    },
+    {
+      "id": "egg",
+      "name": {
+        "zh-Hans": "鸡蛋"
+      }
+    },
+    {
+      "id": "preserved-egg",
+      "name": {
+        "zh-Hans": "皮蛋"
+      }
+    },
+    {
+      "id": "salted-duck-egg",
+      "name": {
+        "zh-Hans": "咸鸭蛋"
+      }
+    },
+    {
+      "id": "tofu",
+      "name": {
+        "zh-Hans": "豆腐"
+      }
+    },
+    {
+      "id": "dried-tofu",
+      "name": {
+        "zh-Hans": "豆腐干"
+      }
+    },
+    {
+      "id": "soft-tofu",
+      "name": {
+        "zh-Hans": "嫩豆腐"
+      }
+    },
+    {
+      "id": "tofu-skin",
+      "name": {
+        "zh-Hans": "豆腐皮"
+      }
+    },
+    {
+      "id": "tomato",
+      "name": {
+        "zh-Hans": "番茄"
+      }
+    },
+    {
+      "id": "cucumber",
+      "name": {
+        "zh-Hans": "黄瓜"
+      }
+    },
+    {
+      "id": "potato",
+      "name": {
+        "zh-Hans": "土豆"
+      }
+    },
+    {
+      "id": "sweet-potato",
+      "name": {
+        "zh-Hans": "番薯"
+      }
+    },
+    {
+      "id": "taro",
+      "name": {
+        "zh-Hans": "芋艿"
+      }
+    },
+    {
+      "id": "corn",
+      "name": {
+        "zh-Hans": "玉米"
+      }
+    },
+    {
+      "id": "carrot",
+      "name": {
+        "zh-Hans": "胡萝卜"
+      }
+    },
+    {
+      "id": "white-radish",
+      "name": {
+        "zh-Hans": "白萝卜"
+      }
+    },
+    {
+      "id": "eggplant",
+      "name": {
+        "zh-Hans": "茄子"
+      }
+    },
+    {
+      "id": "green-pepper",
+      "name": {
+        "zh-Hans": "青椒"
+      }
+    },
+    {
+      "id": "bell-pepper",
+      "name": {
+        "zh-Hans": "彩椒"
+      }
+    },
+    {
+      "id": "chili-pepper",
+      "name": {
+        "zh-Hans": "辣椒"
+      }
+    },
+    {
+      "id": "bird-eye-chili",
+      "name": {
+        "zh-Hans": "小米辣"
+      }
+    },
+    {
+      "id": "scallion",
+      "name": {
+        "zh-Hans": "葱"
+      }
+    },
+    {
+      "id": "ginger",
+      "name": {
+        "zh-Hans": "姜"
+      }
+    },
+    {
+      "id": "garlic",
+      "name": {
+        "zh-Hans": "蒜"
+      }
+    },
+    {
+      "id": "onion",
+      "name": {
+        "zh-Hans": "洋葱"
+      }
+    },
+    {
+      "id": "cilantro",
+      "name": {
+        "zh-Hans": "香菜"
+      }
+    },
+    {
+      "id": "lettuce",
+      "name": {
+        "zh-Hans": "生菜"
+      }
+    },
+    {
+      "id": "cabbage",
+      "name": {
+        "zh-Hans": "卷心菜"
+      }
+    },
+    {
+      "id": "napa-cabbage",
+      "name": {
+        "zh-Hans": "白菜"
+      }
+    },
+    {
+      "id": "baby-bok-choy",
+      "name": {
+        "zh-Hans": "上海青"
+      }
+    },
+    {
+      "id": "choy-sum",
+      "name": {
+        "zh-Hans": "菜心"
+      }
+    },
+    {
+      "id": "water-spinach",
+      "name": {
+        "zh-Hans": "空心菜"
+      }
+    },
+    {
+      "id": "broccoli",
+      "name": {
+        "zh-Hans": "西兰花"
+      }
+    },
+    {
+      "id": "mushroom",
+      "name": {
+        "zh-Hans": "蘑菇"
+      }
+    },
+    {
+      "id": "shiitake",
+      "name": {
+        "zh-Hans": "香菇"
+      }
+    },
+    {
+      "id": "enoki",
+      "name": {
+        "zh-Hans": "金针菇"
+      }
+    },
+    {
+      "id": "wood-ear",
+      "name": {
+        "zh-Hans": "木耳"
+      }
+    },
+    {
+      "id": "white-fungus",
+      "name": {
+        "zh-Hans": "银耳"
+      }
+    },
+    {
+      "id": "kelp",
+      "name": {
+        "zh-Hans": "海带"
+      }
+    },
+    {
+      "id": "seaweed",
+      "name": {
+        "zh-Hans": "紫菜"
+      }
+    },
+    {
+      "id": "lotus-root",
+      "name": {
+        "zh-Hans": "莲藕"
+      }
+    },
+    {
+      "id": "bamboo-shoot",
+      "name": {
+        "zh-Hans": "竹笋"
+      }
+    },
+    {
+      "id": "bean-sprout",
+      "name": {
+        "zh-Hans": "豆芽"
+      }
+    },
+    {
+      "id": "green-bean",
+      "name": {
+        "zh-Hans": "豆角"
+      }
+    },
+    {
+      "id": "snow-pea",
+      "name": {
+        "zh-Hans": "荷兰豆"
+      }
+    },
+    {
+      "id": "okra",
+      "name": {
+        "zh-Hans": "秋葵"
+      }
+    },
+    {
+      "id": "bitter-melon",
+      "name": {
+        "zh-Hans": "苦瓜"
+      }
+    },
+    {
+      "id": "winter-melon",
+      "name": {
+        "zh-Hans": "冬瓜"
+      }
+    },
+    {
+      "id": "luffa",
+      "name": {
+        "zh-Hans": "丝瓜"
+      }
+    },
+    {
+      "id": "pumpkin",
+      "name": {
+        "zh-Hans": "南瓜"
+      }
+    },
+    {
+      "id": "chinese-leek",
+      "name": {
+        "zh-Hans": "韭菜"
+      }
+    },
+    {
+      "id": "garlic-chive",
+      "name": {
+        "zh-Hans": "韭黄"
+      }
+    },
+    {
+      "id": "spinach",
+      "name": {
+        "zh-Hans": "菠菜"
+      }
+    },
+    {
+      "id": "celery",
+      "name": {
+        "zh-Hans": "芹菜"
+      }
+    },
+    {
+      "id": "yam",
+      "name": {
+        "zh-Hans": "山药"
+      }
+    },
+    {
+      "id": "rice",
+      "name": {
+        "zh-Hans": "米"
+      }
+    },
+    {
+      "id": "noodles",
+      "name": {
+        "zh-Hans": "面条"
+      }
+    },
+    {
+      "id": "flour",
+      "name": {
+        "zh-Hans": "面粉"
+      }
+    },
+    {
+      "id": "dumpling-wrapper",
+      "name": {
+        "zh-Hans": "饺子皮"
+      }
+    },
+    {
+      "id": "wonton-wrapper",
+      "name": {
+        "zh-Hans": "馄饨皮"
+      }
+    },
+    {
+      "id": "vermicelli",
+      "name": {
+        "zh-Hans": "粉丝"
+      }
+    },
+    {
+      "id": "rice-noodle",
+      "name": {
+        "zh-Hans": "米粉"
+      }
+    },
+    {
+      "id": "mantou",
+      "name": {
+        "zh-Hans": "馒头"
+      }
+    },
+    {
+      "id": "peanut",
+      "name": {
+        "zh-Hans": "花生"
+      }
+    },
+    {
+      "id": "red-date",
+      "name": {
+        "zh-Hans": "红枣"
+      }
+    },
+    {
+      "id": "goji-berry",
+      "name": {
+        "zh-Hans": "枸杞"
+      }
+    },
+    {
+      "id": "dried-shrimp",
+      "name": {
+        "zh-Hans": "虾米"
+      }
+    },
+    {
+      "id": "dried-chili",
+      "name": {
+        "zh-Hans": "干辣椒"
+      }
+    },
+    {
+      "id": "lily-bulb",
+      "name": {
+        "zh-Hans": "百合"
+      }
+    },
+    {
+      "id": "nori-sheet",
+      "name": {
+        "zh-Hans": "海苔片"
+      }
+    }
+  ],
+  "condiments": [
+    {
+      "id": "salt",
+      "name": {
+        "zh-Hans": "盐"
+      }
+    },
+    {
+      "id": "sugar",
+      "name": {
+        "zh-Hans": "糖"
+      }
+    },
+    {
+      "id": "rock-sugar",
+      "name": {
+        "zh-Hans": "冰糖"
+      }
+    },
+    {
+      "id": "light-soy",
+      "name": {
+        "zh-Hans": "生抽"
+      }
+    },
+    {
+      "id": "dark-soy",
+      "name": {
+        "zh-Hans": "老抽"
+      }
+    },
+    {
+      "id": "vinegar",
+      "name": {
+        "zh-Hans": "醋"
+      }
+    },
+    {
+      "id": "balsamic-vinegar",
+      "name": {
+        "zh-Hans": "陈醋"
+      }
+    },
+    {
+      "id": "rice-vinegar",
+      "name": {
+        "zh-Hans": "米醋"
+      }
+    },
+    {
+      "id": "cooking-wine",
+      "name": {
+        "zh-Hans": "料酒"
+      }
+    },
+    {
+      "id": "rapeseed-oil",
+      "name": {
+        "zh-Hans": "菜籽油"
+      }
+    },
+    {
+      "id": "vegetable-oil",
+      "name": {
+        "zh-Hans": "食用油"
+      }
+    },
+    {
+      "id": "sesame-oil",
+      "name": {
+        "zh-Hans": "芝麻香油"
+      }
+    },
+    {
+      "id": "peanut-oil",
+      "name": {
+        "zh-Hans": "花生油"
+      }
+    },
+    {
+      "id": "chili-oil",
+      "name": {
+        "zh-Hans": "辣椒油"
+      }
+    },
+    {
+      "id": "oyster-sauce",
+      "name": {
+        "zh-Hans": "蚝油"
+      }
+    },
+    {
+      "id": "doubanjiang",
+      "name": {
+        "zh-Hans": "豆瓣酱"
+      }
+    },
+    {
+      "id": "sweet-bean-sauce",
+      "name": {
+        "zh-Hans": "甜面酱"
+      }
+    },
+    {
+      "id": "ketchup",
+      "name": {
+        "zh-Hans": "番茄酱"
+      }
+    },
+    {
+      "id": "sa-cha-sauce",
+      "name": {
+        "zh-Hans": "沙茶酱"
+      }
+    },
+    {
+      "id": "fermented-bean-curd",
+      "name": {
+        "zh-Hans": "腐乳"
+      }
+    },
+    {
+      "id": "chicken-bouillon",
+      "name": {
+        "zh-Hans": "鸡精"
+      }
+    },
+    {
+      "id": "white-pepper",
+      "name": {
+        "zh-Hans": "白胡椒粉"
+      }
+    },
+    {
+      "id": "black-pepper",
+      "name": {
+        "zh-Hans": "黑胡椒"
+      }
+    },
+    {
+      "id": "fish-sauce",
+      "name": {
+        "zh-Hans": "鱼露"
+      }
+    },
+    {
+      "id": "yellow-bean-sauce",
+      "name": {
+        "zh-Hans": "黄豆酱"
+      }
+    },
+    {
+      "id": "starch",
+      "name": {
+        "zh-Hans": "淀粉"
+      }
+    },
+    {
+      "id": "honey",
+      "name": {
+        "zh-Hans": "蜂蜜"
+      }
+    }
+  ],
+  "spices": [
+    {
+      "id": "star-anise",
+      "name": {
+        "zh-Hans": "八角"
+      }
+    },
+    {
+      "id": "cinnamon",
+      "name": {
+        "zh-Hans": "桂皮"
+      }
+    },
+    {
+      "id": "dried-tangerine-peel",
+      "name": {
+        "zh-Hans": "陈皮"
+      }
+    },
+    {
+      "id": "sichuan-peppercorn",
+      "name": {
+        "zh-Hans": "花椒"
+      }
+    },
+    {
+      "id": "chili-powder",
+      "name": {
+        "zh-Hans": "辣椒粉"
+      }
+    },
+    {
+      "id": "five-spice-powder",
+      "name": {
+        "zh-Hans": "五香粉"
+      }
+    },
+    {
+      "id": "cumin",
+      "name": {
+        "zh-Hans": "孜然"
+      }
+    },
+    {
+      "id": "bay-leaf",
+      "name": {
+        "zh-Hans": "香叶"
+      }
+    },
+    {
+      "id": "fennel-seed",
+      "name": {
+        "zh-Hans": "小茴香"
+      }
+    },
+    {
+      "id": "clove",
+      "name": {
+        "zh-Hans": "丁香"
+      }
+    },
+    {
+      "id": "white-sesame",
+      "name": {
+        "zh-Hans": "白芝麻"
+      }
+    },
+    {
+      "id": "black-sesame",
+      "name": {
+        "zh-Hans": "黑芝麻"
+      }
+    },
+    {
+      "id": "ginger-powder",
+      "name": {
+        "zh-Hans": "姜粉"
+      }
+    },
+    {
+      "id": "garlic-powder",
+      "name": {
+        "zh-Hans": "蒜粉"
+      }
+    }
+  ]
+}
