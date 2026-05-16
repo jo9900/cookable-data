@@ -1,175 +1,203 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "updatedAt": "2026-05-16T00:00:00Z",
+  "version": 2,
+  "updatedAt": "2026-05-16T05:30:00Z",
   "ingredients": [
     {
       "id": "pork",
       "name": {
         "zh-Hans": "猪肉"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "pork-belly",
       "name": {
         "zh-Hans": "五花肉"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "pork-rib",
       "name": {
         "zh-Hans": "猪排骨"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "pork-mince",
       "name": {
         "zh-Hans": "猪肉末"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "pork-loin",
       "name": {
         "zh-Hans": "里脊肉"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "pork-trotter",
       "name": {
         "zh-Hans": "猪蹄"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "beef",
       "name": {
         "zh-Hans": "牛肉"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "beef-brisket",
       "name": {
         "zh-Hans": "牛腩"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "beef-tongue",
       "name": {
         "zh-Hans": "牛舌"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "lamb",
       "name": {
         "zh-Hans": "羊肉"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "chicken",
       "name": {
         "zh-Hans": "整鸡"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "chicken-wing",
       "name": {
         "zh-Hans": "鸡翅"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "chicken-leg",
       "name": {
         "zh-Hans": "鸡腿"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "chicken-breast",
       "name": {
         "zh-Hans": "鸡胸肉"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "chicken-thigh",
       "name": {
         "zh-Hans": "鸡腿肉"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "duck",
       "name": {
         "zh-Hans": "鸭肉"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "sausage",
       "name": {
         "zh-Hans": "香肠"
-      }
+      },
+      "category": "red"
     },
     {
       "id": "fish",
       "name": {
         "zh-Hans": "鱼"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "fish-fillet",
       "name": {
         "zh-Hans": "鱼片"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "ribbon-fish",
       "name": {
         "zh-Hans": "带鱼"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "shrimp",
       "name": {
         "zh-Hans": "虾"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "squid",
       "name": {
         "zh-Hans": "鱿鱼"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "scallop",
       "name": {
         "zh-Hans": "扇贝"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "clam",
       "name": {
         "zh-Hans": "花蛤"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "crab",
       "name": {
         "zh-Hans": "螃蟹"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "egg",
       "name": {
         "zh-Hans": "鸡蛋"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "preserved-egg",
       "name": {
         "zh-Hans": "皮蛋"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "salted-duck-egg",
       "name": {
         "zh-Hans": "咸鸭蛋"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "tofu",
@@ -301,13 +329,15 @@
       "id": "cilantro",
       "name": {
         "zh-Hans": "香菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "lettuce",
       "name": {
         "zh-Hans": "生菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "cabbage",
@@ -325,19 +355,22 @@
       "id": "baby-bok-choy",
       "name": {
         "zh-Hans": "上海青"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "choy-sum",
       "name": {
         "zh-Hans": "菜心"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "water-spinach",
       "name": {
         "zh-Hans": "空心菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "broccoli",
@@ -451,25 +484,29 @@
       "id": "chinese-leek",
       "name": {
         "zh-Hans": "韭菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "garlic-chive",
       "name": {
         "zh-Hans": "韭黄"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "spinach",
       "name": {
         "zh-Hans": "菠菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "celery",
       "name": {
         "zh-Hans": "芹菜"
-      }
+      },
+      "category": "leafy"
     },
     {
       "id": "yam",
@@ -547,7 +584,8 @@
       "id": "dried-shrimp",
       "name": {
         "zh-Hans": "虾米"
-      }
+      },
+      "category": "white"
     },
     {
       "id": "dried-chili",
@@ -565,6 +603,223 @@
       "id": "nori-sheet",
       "name": {
         "zh-Hans": "海苔片"
+      }
+    },
+    {
+      "id": "pork-shank",
+      "name": {
+        "zh-Hans": "猪蹄髈"
+      },
+      "category": "red"
+    },
+    {
+      "id": "salt-pork",
+      "name": {
+        "zh-Hans": "咸肉"
+      },
+      "category": "red"
+    },
+    {
+      "id": "jinhua-ham",
+      "name": {
+        "zh-Hans": "金华火腿"
+      },
+      "category": "red"
+    },
+    {
+      "id": "pork-intestine",
+      "name": {
+        "zh-Hans": "猪大肠"
+      },
+      "category": "red"
+    },
+    {
+      "id": "pork-liver",
+      "name": {
+        "zh-Hans": "猪肝"
+      },
+      "category": "red"
+    },
+    {
+      "id": "pork-tongue",
+      "name": {
+        "zh-Hans": "猪舌"
+      },
+      "category": "red"
+    },
+    {
+      "id": "pork-heart",
+      "name": {
+        "zh-Hans": "猪心"
+      },
+      "category": "red"
+    },
+    {
+      "id": "yellow-croaker",
+      "name": {
+        "zh-Hans": "黄鱼"
+      },
+      "category": "white"
+    },
+    {
+      "id": "mandarin-fish",
+      "name": {
+        "zh-Hans": "鳜鱼"
+      },
+      "category": "white"
+    },
+    {
+      "id": "crucian-carp",
+      "name": {
+        "zh-Hans": "鲫鱼"
+      },
+      "category": "white"
+    },
+    {
+      "id": "rice-eel",
+      "name": {
+        "zh-Hans": "鳝鱼"
+      },
+      "category": "white"
+    },
+    {
+      "id": "river-snail",
+      "name": {
+        "zh-Hans": "螺蛳"
+      },
+      "category": "white"
+    },
+    {
+      "id": "malantou",
+      "name": {
+        "zh-Hans": "马兰头"
+      },
+      "category": "leafy"
+    },
+    {
+      "id": "meigan-cai",
+      "name": {
+        "zh-Hans": "霉干菜"
+      }
+    },
+    {
+      "id": "pickled-mustard",
+      "name": {
+        "zh-Hans": "雪菜"
+      }
+    },
+    {
+      "id": "gluten-puff",
+      "name": {
+        "zh-Hans": "油面筋"
+      }
+    },
+    {
+      "id": "tofu-puff",
+      "name": {
+        "zh-Hans": "油豆腐"
+      }
+    },
+    {
+      "id": "bean-curd-stick",
+      "name": {
+        "zh-Hans": "腐竹"
+      }
+    },
+    {
+      "id": "glutinous-rice",
+      "name": {
+        "zh-Hans": "糯米"
+      }
+    },
+    {
+      "id": "glutinous-flour",
+      "name": {
+        "zh-Hans": "糯米粉"
+      }
+    },
+    {
+      "id": "mugwort",
+      "name": {
+        "zh-Hans": "艾草"
+      }
+    },
+    {
+      "id": "water-shield",
+      "name": {
+        "zh-Hans": "莼菜"
+      }
+    },
+    {
+      "id": "edamame",
+      "name": {
+        "zh-Hans": "毛豆"
+      }
+    },
+    {
+      "id": "qianzhang",
+      "name": {
+        "zh-Hans": "千张"
+      }
+    },
+    {
+      "id": "chestnut",
+      "name": {
+        "zh-Hans": "栗子"
+      }
+    },
+    {
+      "id": "dried-bamboo-shoot",
+      "name": {
+        "zh-Hans": "笋干"
+      }
+    },
+    {
+      "id": "red-bean",
+      "name": {
+        "zh-Hans": "红豆"
+      }
+    },
+    {
+      "id": "lotus-seed",
+      "name": {
+        "zh-Hans": "莲子"
+      }
+    },
+    {
+      "id": "red-bean-paste",
+      "name": {
+        "zh-Hans": "豆沙"
+      }
+    },
+    {
+      "id": "fermented-rice",
+      "name": {
+        "zh-Hans": "酒酿"
+      }
+    },
+    {
+      "id": "osmanthus",
+      "name": {
+        "zh-Hans": "桂花"
+      }
+    },
+    {
+      "id": "kidney-bean",
+      "name": {
+        "zh-Hans": "芸豆"
+      }
+    },
+    {
+      "id": "rice-cake",
+      "name": {
+        "zh-Hans": "年糕"
+      }
+    },
+    {
+      "id": "pine-nut",
+      "name": {
+        "zh-Hans": "松子"
       }
     }
   ],
@@ -729,6 +984,36 @@
       "id": "honey",
       "name": {
         "zh-Hans": "蜂蜜"
+      }
+    },
+    {
+      "id": "lard",
+      "name": {
+        "zh-Hans": "猪油"
+      }
+    },
+    {
+      "id": "osmanthus-syrup",
+      "name": {
+        "zh-Hans": "糖桂花"
+      }
+    },
+    {
+      "id": "huadiao-wine",
+      "name": {
+        "zh-Hans": "花雕黄酒"
+      }
+    },
+    {
+      "id": "zaolu",
+      "name": {
+        "zh-Hans": "糟卤"
+      }
+    },
+    {
+      "id": "red-fermented-rice",
+      "name": {
+        "zh-Hans": "红曲米"
       }
     }
   ],

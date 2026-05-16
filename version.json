@@ -1,14 +1,14 @@
 {
   "methods": {
-    "version": 1,
-    "updatedAt": "2026-05-16T00:00:00Z"
+    "version": 2,
+    "updatedAt": "2026-05-16T05:30:00Z"
   },
   "ingredients": {
-    "version": 1,
-    "updatedAt": "2026-05-16T00:00:00Z"
+    "version": 2,
+    "updatedAt": "2026-05-16T05:30:00Z"
   },
   "recipes": {
-    "version": 1,
-    "updatedAt": "2026-05-16T00:00:00Z"
+    "version": 2,
+    "updatedAt": "2026-05-16T05:30:00Z"
   }
 }
